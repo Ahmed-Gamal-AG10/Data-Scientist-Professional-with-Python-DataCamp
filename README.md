@@ -5,4 +5,4 @@ Data Scientist Professional with Python in DataCamp
 2. Intermediate Python
 3. Data Manipulation with pandas
 # Projects
--[Investigating Netflix Movies](
+- [Investigating Netflix Movies](https://github.com/Ahmed-Gamal-AG10/Data-Scientist-Professional-with-Python-DataCamp/tree/main/Project%20Investigating%20Netflix%20Movies)
